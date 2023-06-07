@@ -1,0 +1,111 @@
+
+.cards {
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.theme-description {
+  background-color: #050336;
+  /* Replace with your desired background color */
+  padding: 20px;
+  color: white;
+  /* Set the text color to white */
+}
+
+.theme-description h2 {
+  color: white;
+  /* Set the color of the <h2> element to white */
+}
+
+.theme-description p {
+  color: white;
+  /* Set the color of the <p> element to white */
+}
+
+.theme-description svg {
+  fill: white;
+  /* Set the fill color of the SVG icons to white */
+}
+
+.d-block {
+  height: 650px;
+
+}
+
+.bed-icon {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+.bath-icon {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.cash-icon {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.icons-container {
+  color: white;
+  background-color: #050336;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.icons-left {
+  display: flex;
+  flex-direction: row;
+}
+.icons-right {
+  display: flex;
+  flex-direction: row;
+}
+.h4-icon {
+  font-size: 2rem;
+}
+
+.li icons-container:hover {
+  color: blue;
+}
+
+.theme-description svg:hover {
+  color: blue;
+}
+
+.bed:hover svg,
+.bath:hover svg,
+.cash:hover svg {
+  fill: blue;
+}
+
+.button-container2 {
+  background-color: #050336;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.digital-text {
+  display: flex;
+  align-items: end;
+  font-size: 35px;
+  padding-left: 20px;
+
+}
+
+.digital-text:hover {
+  color: blue;
+}
