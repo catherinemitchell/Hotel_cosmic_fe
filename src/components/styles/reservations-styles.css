@@ -1,0 +1,87 @@
+.top-image {
+  background-image: url("../images/lounge.png");
+  height: 300px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:  fixed;
+  background-position: center;
+  
+}
+
+.title {
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.search-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.search-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.article {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+}
+
+.header {
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+
+.form-search {
+  padding-top: 50px;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  
+}
+.form {
+  
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  
+}
+
+.mb-3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: larger;
+}
+
+.card {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.active-icon {
+  padding-right: 30px;
+}
+
+.text-center {
+  font-size: 30px;
+}
+
+
