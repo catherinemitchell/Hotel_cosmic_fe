@@ -1,0 +1,17 @@
+.top-image-aboutus {
+  background-image: url("../images/lounge4.png");
+  height: 1000px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:  fixed;
+  background-position: center;
+}
+
+.title-aboutus {
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+
+}
